@@ -1,5 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://sandbox.in.th/wp-sitemap.xml
-Sitemap: https://www.pr-royalproject.tk/sitemap.xml
