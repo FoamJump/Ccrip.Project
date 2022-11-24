@@ -3,3 +3,4 @@ Disallow: /admin-area/
 Allow: /wp-admin/admin-ajax.php
 
 Sitemap: https://www.pr-royalproject.tk/my_sitemap.xml
+Sitemap: https://sandbox.in.th/wp-sitemap.xml
