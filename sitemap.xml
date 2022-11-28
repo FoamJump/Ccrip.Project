@@ -1,140 +1,119 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-  <loc>https://pr-royalproject.tk/</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/index.html</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past2</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past3</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past4</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past5</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past6</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news18</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news17</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news16</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news15</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news14</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news13</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/pr_contact%20us</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news12</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news11</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news10</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/past7</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news9</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news8</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news7</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news6</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news5</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news4</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news3</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news2</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://pr-royalproject.tk/ws_news1</loc>
-  <lastmod>2022-11-24T16:25:02+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
+<!--  created with sitemap generator https://octopus.do  -->
 
-
+    <url>
+        <loc>www.pr-royalproject.tk</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/index.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/index.html/pr_contact-us.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past2.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past3.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past4.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past5.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15/ws_news14</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15/ws_news14/ws_news13</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15/ws_news14/ws_news13/ws_news12</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15/ws_news14/ws_news13/ws_news12/ws_news11</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/past6.html/page/ws_news17/ws_news16/ws_news15/ws_news14/ws_news13/ws_news12/ws_news11/ws_news10</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/cookies</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
+    <url>
+        <loc>www.pr-royalproject.tk/404-error</loc>
+        <lastmod>2022-11-28</lastmod>
+        <changefreq>always</changefreq>
+        <priority>0.5</priority>
+    </url>
 </urlset>
